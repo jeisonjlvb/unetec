@@ -37,11 +37,11 @@
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="#main-slider"><i class="icon-home"></i></a></li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#portfolio">Portfolio</a></li>
-                        <li><a href="#pricing">Pricing</a></li>
-                        <li><a href="#about-us">About Us</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="#services">Servicios</a></li>
+                        <li><a href="#portfolio">Portafolio</a></li>
+                        <li><a href="#pricing">Precios</a></li>
+                        <li><a href="#about-us">Sobre Nosotros</a></li>
+                        <li><a href="#contact">Contactanos</a></li>
                     </ul>
                 </div>
             </div>
@@ -53,16 +53,16 @@
             <div class="item active">
                 <div class="container">
                     <div class="carousel-content">
-                        <h1>Free Onepage Theme</h1>
-                        <p class="lead">Xeon is the best free onepage responsive theme available arround the globe<br>Download it right now for free</p>
+                        <h1>Calidad de Servicios</h1>
+                        <p class="lead">Todo lo que necesites al alcance de tus manos</p>
                     </div>
                 </div>
             </div><!--/.item-->
             <div class="item">
                 <div class="container">
                     <div class="carousel-content">
-                        <h1>ShapeBootstrap.net</h1>
-                        <p class="lead">Download free but 100% premium quaility twitter Bootstrap based WordPress and HTML themes <br>from shapebootstrap.net</p>
+                        <h1>Servicios Tecnologicos</h1>
+                        <p class="lead">Lo mejor en seguridad informatica</p>
                     </div>
                 </div>
             </div><!--/.item-->
@@ -141,7 +141,7 @@
                             <div class="portfolio-image">
                                 <img src="images/portfolio/thumb/item1.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item1.jpg"><i class="icon-eye-open"></i></a>             
+                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item1.jpg"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
                             <h5>Lorem ipsum dolor sit amet</h5>
@@ -152,10 +152,10 @@
                             <div class="portfolio-image">
                                 <img src="images/portfolio/thumb/item2.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item2.jpg"><i class="icon-eye-open"></i></a>  
+                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item2.jpg"><i class="icon-eye-open"></i></a>
                                 </div>
-                            </div> 
-                            <h5>Lorem ipsum dolor sit amet</h5>         
+                            </div>
+                            <h5>Lorem ipsum dolor sit amet</h5>
                         </div>
                     </li><!--/.portfolio-item-->
                     <li class="portfolio-item bootstrap wordpress">
@@ -163,68 +163,68 @@
                             <div class="portfolio-image">
                                 <img src="images/portfolio/thumb/item3.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item3.jpg"><i class="icon-eye-open"></i></a>        
-                                </div> 
+                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item3.jpg"><i class="icon-eye-open"></i></a>
+                                </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>          
-                        </div>           
+                            <h5>Lorem ipsum dolor sit amet</h5>
+                        </div>
                     </li><!--/.portfolio-item-->
                     <li class="portfolio-item joomla wordpress apps">
                         <div class="item-inner">
                             <div class="portfolio-image">
                                 <img src="images/portfolio/thumb/item4.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item4.jpg"><i class="icon-eye-open"></i></a>          
-                                </div>   
+                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item4.jpg"><i class="icon-eye-open"></i></a>
+                                </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>        
-                        </div>           
+                            <h5>Lorem ipsum dolor sit amet</h5>
+                        </div>
                     </li><!--/.portfolio-item-->
                     <li class="portfolio-item joomla html">
                         <div class="item-inner">
                             <div class="portfolio-image">
                                 <img src="images/portfolio/thumb/item5.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item5.jpg"><i class="icon-eye-open"></i></a>          
-                                </div>  
+                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item5.jpg"><i class="icon-eye-open"></i></a>
+                                </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>  
-                        </div>       
+                            <h5>Lorem ipsum dolor sit amet</h5>
+                        </div>
                     </li><!--/.portfolio-item-->
                     <li class="portfolio-item wordpress html">
                         <div class="item-inner">
                             <div class="portfolio-image">
                                 <img src="images/portfolio/thumb/item6.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item6.jpg"><i class="icon-eye-open"></i></a>           
-                                </div>  
+                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item6.jpg"><i class="icon-eye-open"></i></a>
+                                </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>         
-                        </div>           
+                            <h5>Lorem ipsum dolor sit amet</h5>
+                        </div>
                     </li><!--/.portfolio-item-->
                     <li class="portfolio-item joomla html">
                         <div class="item-inner">
                             <div class="portfolio-image">
                                 <img src="images/portfolio/thumb/item5.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item5.jpg"><i class="icon-eye-open"></i></a>          
-                                </div>  
+                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item5.jpg"><i class="icon-eye-open"></i></a>
+                                </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>  
-                        </div>       
+                            <h5>Lorem ipsum dolor sit amet</h5>
+                        </div>
                     </li><!--/.portfolio-item-->
                     <li class="portfolio-item wordpress html">
                         <div class="item-inner">
                             <div class="portfolio-image">
                                 <img src="images/portfolio/thumb/item6.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item6.jpg"><i class="icon-eye-open"></i></a>           
-                                </div>   
+                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item6.jpg"><i class="icon-eye-open"></i></a>
+                                </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>        
-                        </div>         
+                            <h5>Lorem ipsum dolor sit amet</h5>
+                        </div>
                     </li><!--/.portfolio-item-->
-                </ul>   
+                </ul>
             </div><!--/.box-->
         </div><!--/.container-->
     </section><!--/#portfolio-->
@@ -235,7 +235,7 @@
                 <div class="center">
                     <h2>See our Pricings</h2>
                     <p class="lead">Pellentesque habitant morbi tristique senectus et netus et <br>malesuada fames ac turpis egestas.</p>
-                </div><!--/.center-->   
+                </div><!--/.center-->
                 <div class="big-gap"></div>
                 <div id="pricing-table" class="row">
                     <div class="col-sm-4">
@@ -274,8 +274,8 @@
                             <li class="plan-action"><a href="#" class="btn btn-primary btn-lg">Signup</a></li>
                         </ul>
                     </div><!--/.col-sm-4-->
-                </div> 
-            </div> 
+                </div>
+            </div>
         </div>
     </section><!--/#pricing-->
 
@@ -302,7 +302,7 @@
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
                                         <h3>Donald Ford<small class="designation">Senior Vice President</small></h3>
                                     </div>
-                                </div>        
+                                </div>
                                 <div class="col-sm-4">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team3.jpg" alt="" ></p>
@@ -318,13 +318,13 @@
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team3.jpg" alt="" ></p>
                                         <h3>David Robbins<small class="designation">Co-Founder</small></h3>
                                     </div>
-                                </div>   
+                                </div>
                                 <div class="col-sm-4">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team1.jpg" alt="" ></p>
                                         <h3>Philip Mejia<small class="designation">Marketing Manager</small></h3>
                                     </div>
-                                </div>     
+                                </div>
                                 <div class="col-sm-4">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
@@ -346,7 +346,7 @@
     </section><!--/#about-us-->
 <?php
       if(isset($_POST['name'])){
-	
+
 
     $name = @trim(stripslashes($_POST['name']));
     $email = @trim(stripslashes($_POST['email']));
@@ -459,7 +459,7 @@ window.location.href = "http://www.unetec.com.ve";</script>';
             </div>
         </div>
     </footer><!--/#footer-->
-    
+
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -467,4 +467,4 @@ window.location.href = "http://www.unetec.com.ve";</script>';
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/main.js"></script>
 </body>
-</html>						
+</html>
