@@ -354,7 +354,7 @@
     $message = @trim(stripslashes($_POST['message']));
 
     $email_from = $email;
-    $email_to = 'jeisonjlvb@gmail.com';
+    $email_to = 'uneteccomvesupport@unetec.freshdesk.com';
 
    $body = 'Name: ' . $name . "\n\n" . 'Message: ' . $message;
 
