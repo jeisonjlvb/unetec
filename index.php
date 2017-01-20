@@ -51,18 +51,18 @@
     <section id="main-slider" class="carousel">
         <div class="carousel-inner">
             <div class="item active">
-                <div class="container"><!--
-                    <div class="carousel-content">
+                <div class="container">
+                    <div class="carousel-content"><!--
                         <h1>Calidad de Servicios</h1>
-                        <p class="lead">Todo lo que necesites al alcance de tus manos</p>
-                    </div>-->
+                        <p class="lead">Todo lo que necesites al alcance de tus manos</p>-->
+                    </div>
                 </div>
             </div><!--/.item-->
             <div class="item">
                 <div class="container">
-                    <div class="carousel-content">
+                    <div class="carousel-content"><!--
                         <h1>Servicios Tecnologicos</h1>
-                        <p class="lead">Lo mejor en seguridad informatica</p>
+                        <p class="lead">Lo mejor en seguridad informatica</p>-->
                     </div>
                 </div>
             </div><!--/.item-->
