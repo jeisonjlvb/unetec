@@ -52,23 +52,23 @@
         <div class="carousel-inner">
             <div class="item active">
                 <div class="container">
-                    <div class="carousel-content"><!--
+                    <div class="carousel-content">
                         <h1>Calidad de Servicios</h1>
-                        <p class="lead">Todo lo que necesites al alcance de tus manos</p>-->
+                        <p class="lead">Todo lo que necesites al alcance de tus manos</p>
                     </div>
                 </div>
             </div><!--/.item-->
             <div class="item">
                 <div class="container">
-                    <div class="carousel-content"><!--
+                    <div class="carousel-content">
                         <h1>Servicios Tecnologicos</h1>
-                        <p class="lead">Lo mejor en seguridad informatica</p>-->
+                        <p class="lead">Lo mejor en seguridad informatica</p>
                     </div>
                 </div>
             </div><!--/.item-->
-        </div><!--/.carousel-inner--><!-- /////////iconos///////
+        </div><!--/.carousel-inner-->
         <a class="prev" href="#main-slider" data-slide="prev"><i class="icon-angle-left"></i></a>
-        <a class="next" href="#main-slider" data-slide="next"><i class="icon-angle-right"></i></a> -->
+        <a class="next" href="#main-slider" data-slide="next"><i class="icon-angle-right"></i></a>
     </section><!--/#main-slider-->
 
     <section id="services">
