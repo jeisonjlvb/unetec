@@ -48,7 +48,7 @@
         </div>
     </header><!--/#header-->
 
-    <section id="main-slider" class="carousel"><!--
+    <section id="main-slider" class="carousel">
         <div class="carousel-inner">
             <div class="item active">
                 <div class="container">
@@ -68,7 +68,7 @@
             </div>
         </div>
         <a class="prev" href="#main-slider" data-slide="prev"><i class="icon-angle-left"></i></a>
-        <a class="next" href="#main-slider" data-slide="next"><i class="icon-angle-right"></i></a>-->
+        <a class="next" href="#main-slider" data-slide="next"><i class="icon-angle-right"></i></a>
     </section>
 
     <section id="services">
@@ -77,44 +77,30 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-6">
                         <div class="center">
-                            <i class="icon-apple icon-md icon-color1"></i>
-                            <h4>iOS development</h4>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                            <img src="images/Iconos/paginasweb.png"></img>
+                            <h4>Diseño de Paginas Web</h4>
+                            <p>Sitios Web especializados en cumplir sus objetivos.</p>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6">
                         <div class="center">
-                            <i class="icon-android icon-md icon-color2"></i>
-                            <h4>Android development</h4>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                            <img src="images/Iconos/aplicacionesweb.png" ></img>
+                            <h4>Aplicaciones Web</h4>
+                            <p>Software Web a la medida para optimizar su empresa.</p>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6">
                         <div class="center">
-                            <i class="icon-windows icon-md icon-color3"></i>
-                            <h4>Windows Phone development</h4>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                            <img src="images/Iconos/camara_seguridad.png" ></img>
+                            <h4>Circuito Cerrado</h4>
+                            <p>La mejor opcion para su seguridad.</p>
                         </div>
                     </div><!--/.col-md-4-->
                     <div class="col-md-4 col-sm-6">
                         <div class="center">
-                            <i class="icon-html5 icon-md icon-color4"></i>
-                            <h4>Ruby on Rails development</h4>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-                        </div>
-                    </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6">
-                        <div class="center">
-                            <i class="icon-css3 icon-md icon-color5"></i>
-                            <h4>Javascript development</h4>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-                        </div>
-                    </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6">
-                        <div class="center">
-                            <i class="icon-thumbs-up icon-md icon-color6"></i>
-                            <h4>Responsive web design</h4>
-                            <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                            <img src="images/Iconos/servicio_tecnico.png"></img>
+                            <h4>Soporte Tecnico</h4>
+                            <p>Reparacion de Equipos Tecnologicos, instalacion de puntos de red y muchas cosas mas.</p>
                         </div>
                     </div><!--/.col-md-4-->
                 </div><!--/.row-->
