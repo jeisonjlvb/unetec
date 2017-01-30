@@ -39,7 +39,7 @@
                         <li class="active"><a href="#main-slider"><i class="icon-home"></i></a></li>
                         <li><a href="#services">Servicios</a></li>
                         <li><a href="#portfolio">Portafolio</a></li>
-                        <li><a href="#pricing">Precios</a></li>
+                        <!--<li><a href="#pricing">Precios</a></li>-->
                         <li><a href="#about-us">Sobre Nosotros</a></li>
                         <li><a href="#contact">Contactanos</a></li>
                     </ul>
@@ -96,7 +96,7 @@
                             <p>La mejor opcion para su seguridad.</p>
                         </div>
                     </div><!--/.col-md-4-->
-                    <div class="col-md-4 col-sm-6">
+                    <div class="col-md-4 col-md-offset-4">
                         <div class="center">
                             <img src="images/Iconos/servicio_tecnico.png"></img>
                             <h4>Soporte Tecnico</h4>
@@ -112,13 +112,13 @@
         <div class="container">
             <div class="box">
                 <div class="center gap">
-                    <h2>Portfolio</h2>
-                    <p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac<br>turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
+                    <h2>Portafolio</h2>
+                    <p class="lead">A continuacion les mostramos proyectos realizados en diferentes lenguajes y plataformas,<br> los cuales estan listos para ser adaptados a sus necesidades.</p>
                 </div><!--/.center-->
                 <ul class="portfolio-filter">
-                    <li><a class="btn btn-primary active" href="#" data-filter="*">All</a></li>
-                    <li><a class="btn btn-primary" href="#" data-filter=".bootstrap">Bootstrap</a></li>
-                    <li><a class="btn btn-primary" href="#" data-filter=".html">HTML</a></li>
+                    <li><a class="btn btn-primary active" href="#" data-filter="*">Todos</a></li>
+                    <li><a class="btn btn-primary" href="#" data-filter=".bootstrap">Laravel / Bootstrap</a></li>
+                    <li><a class="btn btn-primary" href="#" data-filter=".html">HTML / PHP</a></li>
                     <li><a class="btn btn-primary" href="#" data-filter=".wordpress">Wordpress</a></li>
                 </ul><!--/#portfolio-filter-->
                 <ul class="portfolio-items col-4">
@@ -215,13 +215,15 @@
         </div><!--/.container-->
     </section><!--/#portfolio-->
 
+    <!-- SECCION DE PRECIOS QUE PUEDE SER IMPLEMENTADO EN OTRO MOMENTO
+    
     <section id="pricing">
         <div class="container">
             <div class="box">
                 <div class="center">
                     <h2>See our Pricings</h2>
                     <p class="lead">Pellentesque habitant morbi tristique senectus et netus et <br>malesuada fames ac turpis egestas.</p>
-                </div><!--/.center-->
+                </div>
                 <div class="big-gap"></div>
                 <div id="pricing-table" class="row">
                     <div class="col-sm-4">
@@ -235,7 +237,7 @@
                             <li>Forum Support</li>
                             <li class="plan-action"><a href="#" class="btn btn-primary btn-lg">Signup</a></li>
                         </ul>
-                    </div><!--/.col-sm-4-->
+                    </div>
                     <div class="col-sm-4">
                         <ul class="plan featured">
                             <li class="plan-name">Standard</li>
@@ -247,7 +249,7 @@
                             <li>Forum Support</li>
                             <li class="plan-action"><a href="#" class="btn btn-primary btn-lg">Signup</a></li>
                         </ul>
-                    </div><!--/.col-sm-4-->
+                    </div>
                     <div class="col-sm-4">
                         <ul class="plan">
                             <li class="plan-name">Advanced</li>
@@ -259,73 +261,58 @@
                             <li>Forum Support</li>
                             <li class="plan-action"><a href="#" class="btn btn-primary btn-lg">Signup</a></li>
                         </ul>
-                    </div><!--/.col-sm-4-->
+                    </div>
                 </div>
             </div>
         </div>
-    </section><!--/#pricing-->
+    </section>-->
 
     <section id="about-us">
         <div class="container">
             <div class="box">
                 <div class="center">
-                    <h2>Meet the Team</h2>
-                    <p class="lead">Pellentesque habitant morbi tristique senectus et netus et<br>malesuada fames ac turpis egestas.</p>
+                    <h2>Equipo de Trabajo</h2>
+                    <p class="lead">Personas encargadas en hacer realidad todos los proyectos orientadas a empresas y micro empresas, locales comerciales, trabajadores independientes o publico en general.</p>
                 </div>
                 <div class="gap"></div>
                 <div id="team-scroller" class="carousel scale">
                     <div class="carousel-inner">
-                        <div class="item active">
+                        <div class="">
                             <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team1.jpg" alt="" ></p>
-                                        <h3>Agnes Smith<small class="designation">CEO &amp; Founder</small></h3>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
+                                <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
-                                        <h3>Donald Ford<small class="designation">Senior Vice President</small></h3>
+                                        <h3>Jonas Siewdass<small class="designation">Desarrollador Integral</small></h3>
                                     </div>
                                 </div>
-                                <div class="col-sm-4">
+                                <div class="col-sm-3">
+                                    <div class="member">
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
+                                        <h3>Jeison Villalobos<small class="designation">Desarrollador de Aplicaciones</small></h3>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team3.jpg" alt="" ></p>
-                                        <h3>Karen Richardson<small class="designation">Assitant Vice President</small></h3>
+                                        <h3>Kenry Suarez<small class="designation">Desarrollador Web</small></h3>
+                                    </div>
+                                </div>
+                                <div class="col-sm-3">
+                                    <div class="member">
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
+                                        <h3>German Reyes<small class="designation">Desarrollador Integral</small></h3>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="item">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team3.jpg" alt="" ></p>
-                                        <h3>David Robbins<small class="designation">Co-Founder</small></h3>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team1.jpg" alt="" ></p>
-                                        <h3>Philip Mejia<small class="designation">Marketing Manager</small></h3>
-                                    </div>
-                                </div>
-                                <div class="col-sm-4">
-                                    <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
-                                        <h3>Charles Erickson<small class="designation">Support Manager</small></h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                
                     </div>
-                    <a class="left-arrow" href="#team-scroller" data-slide="prev">
+                    <!--<a class="left-arrow" href="#team-scroller" data-slide="prev">
                         <i class="icon-angle-left icon-4x"></i>
                     </a>
                     <a class="right-arrow" href="#team-scroller" data-slide="next">
                         <i class="icon-angle-right icon-4x"></i>
-                    </a>
+                    </a>-->
                 </div><!--/.carousel-->
             </div><!--/.box-->
         </div><!--/.container-->
@@ -340,7 +327,7 @@
     $message = @trim(stripslashes($_POST['message']));
 
     $email_from = $email;
-    $email_to = 'uneteccomvesupport@unetec.freshdesk.com';
+    $email_to = 'support@unetec.com.ve';
 
    $body = 'Name: ' . $name . "\n\n" . 'Message: ' . $message;
 
@@ -357,73 +344,80 @@ window.location.href = "http://www.unetec.com.ve";</script>';
             <div class="box last">
                 <div class="row">
                     <div class="col-sm-6">
-                        <h1>Contact Form</h1>
-                        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                        <h1>Formulario de Contacto</h1>
+                        <p>Por favor llene todos los campos con datos reales para contactarle.</p>
                         <div class="status alert alert-success" style="display: none"></div>
                         <form id="main-contact-form" class="contact-form" name="contact-form" method="POST" action="index.php" role="form">
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" required="required" placeholder="Name" name="name" id="name">
+                                        <input type="text" class="form-control" required="required" placeholder="Nombre" name="name" id="name">
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" required="required" placeholder="Email address" name="email" id="email">
+                                        <input type="text" class="form-control" placeholder="Numero Telefonico" name="phone" id="phone">
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
+                                <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" required="required" placeholder="Ingrese su Correo" name="email" id="email">
+                                    </div>
+                                </div>
+                            
+                            
                                  <div class="col-sm-12">
                                     <div class="form-group">
-                                        <input type="text" name="subject" id="subject" required="required" class="form-control" rows="8" placeholder="subject" >
+                                        <input type="text" name="subject" id="subject" required="required" class="form-control" rows="8" placeholder="Asunto o Requerimiento" >
                                     </div>
                                 </div>
                                 <div class="col-sm-12">
                                     <div class="form-group">
-                                        <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Message" name="message"></textarea>
+                                        <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Descripcion del requerimiento" name="message"></textarea>
                                     </div>
                                     <div class="form-group">
-                                        <button type="submit" class="btn btn-danger btn-lg">Send Message</button>
+                                        <button type="submit" class="btn btn-danger btn-lg">Enviar Mensaje</button>
                                     </div>
                                 </div>
                             </div>
                         </form>
                     </div><!--/.col-sm-6-->
                     <div class="col-sm-6">
-                        <h1>Our Address</h1>
+                        <h1>Nuestra Ubicación</h1>
                         <div class="row">
                             <div class="col-md-6">
                                 <address>
-                                    <strong>Twitter, Inc.</strong><br>
-                                    795 Folsom Ave, Suite 600<br>
-                                    San Francisco, CA 94107<br>
-                                    <abbr title="Phone">P:</abbr> (123) 456-7890
+                                    <strong>Caracas - Venezuela.</strong><br>
+                                    Av. Mexico, Cerca de la estacion<br>
+                                    del metro de Parque Carabobo.<br>
+                                    <!--<abbr title="Phone">Tlfno:</abbr> (123) 456-7890-->
                                 </address>
                             </div>
                             <div class="col-md-6">
                                 <address>
-                                    <strong>Twitter, Inc.</strong><br>
-                                    795 Folsom Ave, Suite 600<br>
-                                    San Francisco, CA 94107<br>
-                                    <abbr title="Phone">P:</abbr> (123) 456-7890
+                                    <strong>Caracas - Venezuela.</strong><br>
+                                    Av. San Martin, Cerca de la estacion<br>
+                                    del metro de Artigas.<br>
+                                    <!--<abbr title="Phone">P:</abbr> (123) 456-7890-->
                                 </address>
                             </div>
                         </div>
-                        <h1>Connect with us</h1>
+                        <h1>Conectate con nosotros</h1>
                         <div class="row">
                             <div class="col-md-6">
                                 <ul class="social">
                                     <li><a href="#"><i class="icon-facebook icon-social"></i> Facebook</a></li>
                                     <li><a href="#"><i class="icon-google-plus icon-social"></i> Google Plus</a></li>
-                                    <li><a href="#"><i class="icon-pinterest icon-social"></i> Pinterest</a></li>
+                                    <!--<li><a href="#"><i class="icon-pinterest icon-social"></i> Pinterest</a></li>-->
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="social">
                                     <li><a href="#"><i class="icon-linkedin icon-social"></i> Linkedin</a></li>
                                     <li><a href="#"><i class="icon-twitter icon-social"></i> Twitter</a></li>
-                                    <li><a href="#"><i class="icon-youtube icon-social"></i> Youtube</a></li>
+                                    <!--<li><a href="#"><i class="icon-youtube icon-social"></i> Youtube</a></li>-->
                                 </ul>
                             </div>
                         </div>
@@ -437,10 +431,10 @@ window.location.href = "http://www.unetec.com.ve";</script>';
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2013 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>. All Rights Reserved.
+                    &copy; 2017 <a target="_blank" href="http://www.unetec.com.ve/">Unetec Soluciones</a>. All Rights Reserved.
                 </div>
                 <div class="col-sm-6">
-                    <img class="pull-right" src="images/shapebootstrap.png" alt="ShapeBootstrap" title="ShapeBootstrap">
+                    <!--<img class="pull-right" src="images/shapebootstrap.png" alt="ShapeBootstrap" title="ShapeBootstrap">-->
                 </div>
             </div>
         </div>
