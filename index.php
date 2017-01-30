@@ -294,7 +294,7 @@
                                 <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team3.jpg" alt="" ></p>
-                                        <h3>Kenry Suarez<small class="designation">Desarrollador Web</small></h3>
+                                        <h3>Kenry Suárez<small class="designation">Desarrollador Web</small></h3>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
@@ -322,6 +322,7 @@
 
 
     $name = @trim(stripslashes($_POST['name']));
+    $phone = @trim(stripslashes($_POST['phone']));
     $email = @trim(stripslashes($_POST['email']));
     $subject = @trim(stripslashes($_POST['subject']));
     $message = @trim(stripslashes($_POST['message']));
@@ -390,7 +391,7 @@ window.location.href = "http://www.unetec.com.ve";</script>';
                             <div class="col-md-6">
                                 <address>
                                     <strong>Caracas - Venezuela.</strong><br>
-                                    Av. Mexico, Cerca de la estacion<br>
+                                    Av. México, Cerca de la estación<br>
                                     del metro de Parque Carabobo.<br>
                                     <!--<abbr title="Phone">Tlfno:</abbr> (123) 456-7890-->
                                 </address>
@@ -398,7 +399,7 @@ window.location.href = "http://www.unetec.com.ve";</script>';
                             <div class="col-md-6">
                                 <address>
                                     <strong>Caracas - Venezuela.</strong><br>
-                                    Av. San Martin, Cerca de la estacion<br>
+                                    Av. San Martin, Cerca de la estación<br>
                                     del metro de Artigas.<br>
                                     <!--<abbr title="Phone">P:</abbr> (123) 456-7890-->
                                 </address>
@@ -408,7 +409,7 @@ window.location.href = "http://www.unetec.com.ve";</script>';
                         <div class="row">
                             <div class="col-md-6">
                                 <ul class="social">
-                                    <li><a href="#"><i class="icon-facebook icon-social"></i> Facebook</a></li>
+                                    <li><a href="https://www.facebook.com/unetecsoluciones/?fref=ts", target="_blank"><i class="icon-facebook icon-social"></i> Facebook</a></li>
                                     <li><a href="#"><i class="icon-google-plus icon-social"></i> Google Plus</a></li>
                                     <!--<li><a href="#"><i class="icon-pinterest icon-social"></i> Pinterest</a></li>-->
                                 </ul>
@@ -416,7 +417,7 @@ window.location.href = "http://www.unetec.com.ve";</script>';
                             <div class="col-md-6">
                                 <ul class="social">
                                     <li><a href="#"><i class="icon-linkedin icon-social"></i> Linkedin</a></li>
-                                    <li><a href="#"><i class="icon-twitter icon-social"></i> Twitter</a></li>
+                                    <li><a href="http://twitter.com/UnetecSolucion", target="_blank"><i class="icon-twitter icon-social"></i> Twitter</a></li>
                                     <!--<li><a href="#"><i class="icon-youtube icon-social"></i> Youtube</a></li>-->
                                 </ul>
                             </div>
