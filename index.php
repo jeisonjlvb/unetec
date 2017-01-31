@@ -320,8 +320,8 @@
 <?php
       if(isset($_POST['name'])){
 
-    //$array = array("jeisonjlvb@gmail.com","germannrrd@gmail.com","jsiewdass@gmail.com","kenry108014@gmail.com","support@unetec.com.ve");
-    $array = array("jeisonjlvb@gmail.com","support@unetec.com.ve");
+    $array = array("jeisonjlvb@gmail.com","germannrrd@gmail.com","jsiewdass@gmail.com","kenry108014@gmail.com","support@unetec.com.ve","webmaster@unetec.com.ve");
+    //$array = array("jeisonjlvb@gmail.com","support@unetec.com.ve");
           
     $name = @trim(stripslashes($_POST['name']));
     $phone = @trim(stripslashes($_POST['phone']));
@@ -330,9 +330,9 @@
     $message = @trim(stripslashes($_POST['message']));
 
     $email_from = $email;
-          foreach ($array as $email_to) {
+        foreach ($array as $email_to) {
     $email_to = $email_to;
-          }
+        }
 
    $body = 'Nombre: ' . $name . "\n\n" . 'Telefono: ' . $phone . "\n\n" . 'Mensaje: ' . $message;
 
