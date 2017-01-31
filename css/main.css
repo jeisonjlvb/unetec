@@ -160,7 +160,7 @@ a:focus {
   position: relative;
 }
 .box.first {
-  margin-top: -40px;
+  margin-top: -400px;
   border-radius: 5px 5px 0 0;
 }
 .box.last {
@@ -357,7 +357,7 @@ a:focus {
 }
 #services .row > div {
   margin-bottom: 50px;
-}
+  }
 .center {
   text-align: center;
 }
@@ -452,8 +452,8 @@ a:focus {
 .icon-social.icon-youtube {
   background: #ce332d;
 }
-.icon-social.icon-youtube:hover {
-  background: #da5954;
+.icon-social.icon-instagram {
+  background: #ad31af;
 }
 .icon-social:hover {
   color: #fff;

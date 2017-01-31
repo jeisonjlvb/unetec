@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>UNETEC | Union de Soluciones Tecnologicas</title>
+    <title>UNETEC | Union de Soluciones Tecnológicas</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -53,30 +53,35 @@
             <div class="item active">
                 <div class="container">
                     <div class="carousel-content">
-                        <h1>Calidad de Servicios</h1>
-                        <p class="lead">Todo lo que necesites al alcance de tus manos</p>
+                        <h1>&nbsp;</h1>
+                        <p class="lead">&nbsp;</p>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="container">
                     <div class="carousel-content">
-                        <h1>Servicios Tecnologicos</h1>
-                        <p class="lead">Lo mejor en seguridad informatica</p>
+                        <h1>&nbsp;</h1>
+                        <p class="lead">&nbsp;</p>
                     </div>
                 </div>
             </div>
-        </div>
+        </div><!--
         <a class="prev" href="#main-slider" data-slide="prev"><i class="icon-angle-left"></i></a>
-        <a class="next" href="#main-slider" data-slide="next"><i class="icon-angle-right"></i></a>
+        <a class="next" href="#main-slider" data-slide="next"><i class="icon-angle-right"></i></a>-->
     </section>
 
     <section id="services">
         <div class="container">
-            <div class="box first">
+            <div class="box">
                 <div class="row">
+                    <div class="center gap">
+                            
+                                <p class="lead"><h2>Servicios</h2></p>
+                        </div>
                     <div class="col-md-4 col-sm-6">
-                        <div class="center">
+                        
+                          <div class="center">
                             <img src="images/Iconos/paginasweb.png"></img>
                             <h4>Diseño de Paginas Web</h4>
                             <p>Sitios Web especializados en cumplir sus objetivos.</p>
@@ -99,8 +104,8 @@
                     <div class="col-md-4 col-md-offset-4">
                         <div class="center">
                             <img src="images/Iconos/servicio_tecnico.png"></img>
-                            <h4>Soporte Tecnico</h4>
-                            <p>Reparacion de Equipos Tecnologicos, instalacion de puntos de red y muchas cosas mas.</p>
+                            <h4>Soporte Técnico</h4>
+                            <p>Reparación de Equipos Tecnológicos, instalación de puntos de red y muchas cosas más.</p>
                         </div>
                     </div><!--/.col-md-4-->
                 </div><!--/.row-->
@@ -113,101 +118,102 @@
             <div class="box">
                 <div class="center gap">
                     <h2>Portafolio</h2>
-                    <p class="lead">A continuacion les mostramos proyectos realizados en diferentes lenguajes y plataformas,<br> los cuales estan listos para ser adaptados a sus necesidades.</p>
+                    <p class="lead">Proyectos realizados en diferentes lenguajes y plataformas,<br> los cuales estan listos para ser adaptados a sus necesidades.</p>
                 </div><!--/.center-->
                 <ul class="portfolio-filter">
                     <li><a class="btn btn-primary active" href="#" data-filter="*">Todos</a></li>
-                    <li><a class="btn btn-primary" href="#" data-filter=".bootstrap">Laravel / Bootstrap</a></li>
-                    <li><a class="btn btn-primary" href="#" data-filter=".html">HTML / PHP</a></li>
-                    <li><a class="btn btn-primary" href="#" data-filter=".wordpress">Wordpress</a></li>
+                    <li><a class="btn btn-primary active" href="#" data-filter=".app">Aplicaciones</a></li>
+                    <li><a class="btn btn-primary" href="#" data-filter=".web">Desarrollo Web</a></li>
+                    <li><a class="btn btn-primary" href="#" data-filter=".supp">Soporte Técnico</a></li>
+                    <li><a class="btn btn-primary" href="#" data-filter=".cam">Circuito Cerrado</a></li>
                 </ul><!--/#portfolio-filter-->
                 <ul class="portfolio-items col-4">
-                    <li class="portfolio-item apps">
+                    <li class="portfolio-item app">
                         <div class="item-inner">
                             <div class="portfolio-image">
-                                <img src="images/portfolio/thumb/item1.jpg" alt="">
+                                <img src="images/portfolio/aplicacion_web.png" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item1.jpg"><i class="icon-eye-open"></i></a>
+                                    <a class="preview btn btn-danger" title="Imagen de muestra de aplicacion web" href="images/portfolio/aplicacion_web.png"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>
+                            <h5>Aplicación Web</h5>
                         </div>
                     </li><!--/.portfolio-item-->
-                    <li class="portfolio-item joomla bootstrap">
+                    <li class="portfolio-item web app">
                         <div class="item-inner">
                             <div class="portfolio-image">
-                                <img src="images/portfolio/thumb/item2.jpg" alt="">
+                                <img src="images/portfolio/laravel.png" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item2.jpg"><i class="icon-eye-open"></i></a>
+                                    <a class="preview btn btn-danger" title="Imagen de muestra de sistema en Laravel" href="images/portfolio/laravel.png"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>
+                            <h5>Sistema en Laravel</h5>
                         </div>
                     </li><!--/.portfolio-item-->
-                    <li class="portfolio-item bootstrap wordpress">
+                    <li class="portfolio-item web app">
                         <div class="item-inner">
                             <div class="portfolio-image">
-                                <img src="images/portfolio/thumb/item3.jpg" alt="">
+                                <img src="images/portfolio/bootstrap.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item3.jpg"><i class="icon-eye-open"></i></a>
+                                    <a class="preview btn btn-danger" title="Sistema en Wordpress con Bootstrap" href="images/portfolio/bootstrap.jpg"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>
+                            <h5>Wordpress con Bootstrap</h5>
                         </div>
                     </li><!--/.portfolio-item-->
-                    <li class="portfolio-item joomla wordpress apps">
+                    <li class="portfolio-item supp cam">
                         <div class="item-inner">
                             <div class="portfolio-image">
-                                <img src="images/portfolio/thumb/item4.jpg" alt="">
+                                <img src="images/portfolio/red-cableada.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item4.jpg"><i class="icon-eye-open"></i></a>
+                                    <a class="preview btn btn-danger" title="Instalacion de puntos de red y cableado" href="images/portfolio/red-cableada.jpg"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>
+                            <h5>Redes y Cableados</h5>
                         </div>
                     </li><!--/.portfolio-item-->
-                    <li class="portfolio-item joomla html">
+                    <li class="portfolio-item web">
                         <div class="item-inner">
                             <div class="portfolio-image">
-                                <img src="images/portfolio/thumb/item5.jpg" alt="">
+                                <img src="images/portfolio/sistema_php.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item5.jpg"><i class="icon-eye-open"></i></a>
+                                    <a class="preview btn btn-danger" title="Sistemas listos para ser utilizados" href="images/portfolio/sistema_php.jpg"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>
+                            <h5>Sistemas en PHP</h5>
                         </div>
                     </li><!--/.portfolio-item-->
-                    <li class="portfolio-item wordpress html">
+                    <li class="portfolio-item supp">
                         <div class="item-inner">
                             <div class="portfolio-image">
-                                <img src="images/portfolio/thumb/item6.jpg" alt="">
+                                <img src="images/portfolio/Servicios_Soporte_Tecnico.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item6.jpg"><i class="icon-eye-open"></i></a>
+                                    <a class="preview btn btn-danger" title="Reparacion de equipos tecnologicos" href="images/portfolio/Servicios_Soporte_Tecnico.jpg"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>
+                            <h5>Soporte Técnico</h5>
                         </div>
                     </li><!--/.portfolio-item-->
-                    <li class="portfolio-item joomla html">
+                    <li class="portfolio-item supp">
                         <div class="item-inner">
                             <div class="portfolio-image">
-                                <img src="images/portfolio/thumb/item5.jpg" alt="">
+                                <img src="images/portfolio/linux-windows.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item5.jpg"><i class="icon-eye-open"></i></a>
+                                    <a class="preview btn btn-danger" title="Sistemas operativos (Linux y Windows con licencia oficial)" href="images/portfolio/linux-windows.jpg"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>
+                            <h5>Sistemas Operativos</h5>
                         </div>
                     </li><!--/.portfolio-item-->
-                    <li class="portfolio-item wordpress html">
+                    <li class="portfolio-item cam">
                         <div class="item-inner">
                             <div class="portfolio-image">
-                                <img src="images/portfolio/thumb/item6.jpg" alt="">
+                                <img src="images/portfolio/circuito-cerrado.jpg" alt="">
                                 <div class="overlay">
-                                    <a class="preview btn btn-danger" title="Lorem ipsum dolor sit amet" href="images/portfolio/full/item6.jpg"><i class="icon-eye-open"></i></a>
+                                    <a class="preview btn btn-danger" title="Camaras de Seguridad con vista en la web" href="images/portfolio/circuito-cerrado.jpg"><i class="icon-eye-open"></i></a>
                                 </div>
                             </div>
-                            <h5>Lorem ipsum dolor sit amet</h5>
+                            <h5>Circuito Cerrado</h5>
                         </div>
                     </li><!--/.portfolio-item-->
                 </ul>
@@ -272,7 +278,7 @@
             <div class="box">
                 <div class="center">
                     <h2>Equipo de Trabajo</h2>
-                    <p class="lead">Personas encargadas en hacer realidad todos los proyectos orientadas a empresas y micro empresas, locales comerciales, trabajadores independientes o publico en general.</p>
+                    <p class="lead">Personas encargadas de realizar los proyectos orientados a empresas y microempresas, locales comerciales, trabajadores independientes o público en general.</p>
                 </div>
                 <div class="gap"></div>
                 <div id="team-scroller" class="carousel scale">
@@ -282,25 +288,25 @@
                                 <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
-                                        <h3>Jonas Siewdass<small class="designation">Desarrollador Integral</small></h3>
+                                        <h3>Ing. Jonas Siewdass<small class="designation">Desarrollador Integral.</small></h3>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
-                                        <h3>Jeison Villalobos<small class="designation">Desarrollador de Aplicaciones</small></h3>
+                                        <h3>Lic. Jeison Villalobos<small class="designation">Desarrollador de Aplicaciones - Técnico Especialista.</small></h3>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team3.jpg" alt="" ></p>
-                                        <h3>Kenry Suárez<small class="designation">Desarrollador Web</small></h3>
+                                        <h3>Lic. Kenry Suárez<small class="designation">Desarrollador Web - Técnico Especialista.</small></h3>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
-                                        <h3>German Reyes<small class="designation">Desarrollador Integral</small></h3>
+                                        <h3>Ing. German Reyes<small class="designation">Desarrollador Integral.</small></h3>
                                     </div>
                                 </div>
                             </div>
@@ -412,15 +418,15 @@ window.location.href = "http://www.unetec.com.ve";</script>';
                         <div class="row">
                             <div class="col-md-6">
                                 <ul class="social">
-                                    <li><a href="https://www.facebook.com/unetecsoluciones/?fref=ts", target="_blank"><i class="icon-facebook icon-social"></i> Facebook</a></li>
-                                    <li><a href="#"><i class="icon-google-plus icon-social"></i> Google Plus</a></li>
+                                    <li><a href="https://www.facebook.com/unetecsoluciones/?fref=ts" target="_blank"><i class="icon-facebook icon-social"></i> Facebook</a></li>
+                                    <li><a href="https://www.instagram.com/unetecsoluciones/?hl=es" target="_blank"><i class="icon-instagram icon-social"></i> Instagram</a></li>
                                     <!--<li><a href="#"><i class="icon-pinterest icon-social"></i> Pinterest</a></li>-->
                                 </ul>
                             </div>
                             <div class="col-md-6">
                                 <ul class="social">
-                                    <li><a href="#"><i class="icon-linkedin icon-social"></i> Linkedin</a></li>
-                                    <li><a href="http://twitter.com/UnetecSolucion", target="_blank"><i class="icon-twitter icon-social"></i> Twitter</a></li>
+                                    <li><a href="http://twitter.com/UnetecSolucion" target="_blank"><i class="icon-twitter icon-social"></i> Twitter</a></li>
+                                    <li><a href="https://ve.linkedin.com/in/unetec-soluciones-281082136" target="_blank"><i class="icon-linkedin icon-social"></i> Linkedin</a></li>
                                     <!--<li><a href="#"><i class="icon-youtube icon-social"></i> Youtube</a></li>-->
                                 </ul>
                             </div>
