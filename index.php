@@ -332,12 +332,11 @@
     $email_from = $email;
         foreach ($array as $email_to) {
     $email_to = $email_to;
-        }
 
    $body = 'Nombre: ' . $name . "\n\n" . 'Telefono: ' . $phone . "\n\n" . 'Mensaje: ' . $message;
 
     $success = @mail($email_to, $subject, $body, 'From: <'.$email_from.'>');
-
+        }
     //echo json_encode($status);
     echo '<script language="javascript">alert("Mensaje enviado, muchas gracias.");
 window.location.href = "http://www.unetec.com.ve";</script>';
