@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -320,7 +320,9 @@
 <?php
       if(isset($_POST['name'])){
 
-
+    //$array = array("jeisonjlvb@gmail.com","germannrrd@gmail.com","jsiewdass@gmail.com","kenry108014@gmail.com","support@unetec.com.ve");
+    $array = array("jeisonjlvb@gmail.com","support@unetec.com.ve");
+          
     $name = @trim(stripslashes($_POST['name']));
     $phone = @trim(stripslashes($_POST['phone']));
     $email = @trim(stripslashes($_POST['email']));
@@ -328,9 +330,11 @@
     $message = @trim(stripslashes($_POST['message']));
 
     $email_from = $email;
-    $email_to = 'support@unetec.com.ve';
+          foreach ($array as $email_to) {
+    $email_to = $email_to;
+          }
 
-   $body = 'Name: ' . $name . "\n\n" . 'Message: ' . $message;
+   $body = 'Nombre: ' . $name . "\n\n" 'Telefono: ' . $phone . "\n\n" . 'Mensaje: ' . $message;
 
     $success = @mail($email_to, $subject, $body, 'From: <'.$email_from.'>');
 
