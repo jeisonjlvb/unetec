@@ -334,7 +334,7 @@
     $email_to = $email_to;
           }
 
-   $body = 'Nombre: ' . $name . "\n\n" 'Telefono: ' . $phone . "\n\n" . 'Mensaje: ' . $message;
+   $body = 'Nombre: ' . $name . "\n\n" . 'Telefono: ' . $phone . "\n\n" . 'Mensaje: ' . $message;
 
     $success = @mail($email_to, $subject, $body, 'From: <'.$email_from.'>');
 
