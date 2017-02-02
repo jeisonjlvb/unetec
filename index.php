@@ -3,8 +3,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Unetec Soluciones Especialistas tecnológicos encargados de realizar Páginas Web, Aplicaciones, Trabajo de Redes, Circuito Cerrado y Soporte Técnico orientada a empresas y público en general.">
+    <meta name="author" content="Unetec Soluciones">
+    <meta name=”robots” content=”index,follow”>
+    <meta name="keywords" content="venta de software, instalacion de circuito cerrado, reparacion de computadoras, puntos de red, aplicacion web, aplicaciones, camaras de seguridad, soporte tecnico, venta de programas, servicio en general, unetec soluciones, empresa de tecnologia">
     <title>UNETEC | Union de Soluciones Tecnológicas</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -288,7 +290,7 @@
                                 <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
-                                        <h3>Ing. Jonas Siewdass<small class="designation">Desarrollador Integral.</small></h3>
+                                        <h3>Ing. Jonas Siewdass<small class="designation">Especialista Integral.</small></h3>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
@@ -306,7 +308,7 @@
                                 <div class="col-sm-3">
                                     <div class="member">
                                         <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
-                                        <h3>Ing. German Reyes<small class="designation">Desarrollador Integral.</small></h3>
+                                        <h3>Ing. German Reyes<small class="designation">Especialista Integral.</small></h3>
                                     </div>
                                 </div>
                             </div>
