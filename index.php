@@ -295,7 +295,7 @@
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="http://www.w3schools.com/w3images/avatar2.png" alt="" ></p>
                                         <h3>Lic. Jeison Villalobos<small class="designation">Desarrollador de Aplicaciones - Técnico Especialista.</small></h3>
                                     </div>
                                 </div>
