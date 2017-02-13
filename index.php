@@ -7,7 +7,7 @@
     <meta name="author" content="Unetec Soluciones">
     <meta name=”robots” content=”index,follow”>
     <meta name="keywords" content="venta de software, instalacion de circuito cerrado, reparacion de computadoras, puntos de red, aplicacion web, aplicaciones, camaras de seguridad, soporte tecnico, venta de programas, servicio en general, unetec soluciones, empresa de tecnologia">
-    <title>UNETEC | Union de Soluciones Tecnológicas</title>
+    <title>Unetec Soluciones | Unión de Especialistas Tecnológicos</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/prettyPhoto.css" rel="stylesheet">
@@ -113,7 +113,7 @@
                     </div>
 <center>
  <div class="w3-container">
-  <h3>Mas de nuestros servicios</h3>
+  <h3>Prueba nuestros servicios web</h3>
 
   <button onclick="document.getElementById('id01').style.display='block'" class="w3-btn w3-green w3-large">Ingresar</button>
 
@@ -161,7 +161,7 @@
                 </div><!--/.center-->
                 <ul class="portfolio-filter">
                     <li><a class="btn btn-primary active" href="#" data-filter="*">Todos</a></li>
-                    <li><a class="btn btn-primary active" href="#" data-filter=".app">Aplicaciones</a></li>
+                    <li><a class="btn btn-primary" href="#" data-filter=".app">Aplicaciones</a></li>
                     <li><a class="btn btn-primary" href="#" data-filter=".web">Desarrollo Web</a></li>
                     <li><a class="btn btn-primary" href="#" data-filter=".supp">Soporte Técnico</a></li>
                     <li><a class="btn btn-primary" href="#" data-filter=".cam">Circuito Cerrado</a></li>
@@ -326,25 +326,25 @@
                             <div class="row">
                                 <div class="col-sm-3">
                                     <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="http://www.w3schools.com/w3images/avatar1.png" alt="" ></p>
                                         <h3>Ing. Jonas Siewdass<small class="designation">Especialista Integral.</small></h3>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="http://www.w3schools.com/w3images/avatar2.png" alt="" ></p>
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="http://www.w3schools.com/w3images/avatar3.png" alt="" ></p>
                                         <h3>Lic. Jeison Villalobos<small class="designation">Desarrollador de Aplicaciones - Técnico Especialista.</small></h3>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team3.jpg" alt="" ></p>
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="http://www.w3schools.com/w3images/avatar1.png" alt="" ></p>
                                         <h3>Lic. Kenry Suárez<small class="designation">Desarrollador Web - Técnico Especialista.</small></h3>
                                     </div>
                                 </div>
                                 <div class="col-sm-3">
                                     <div class="member">
-                                        <p><img class="img-responsive img-thumbnail img-circle" src="images/team2.jpg" alt="" ></p>
+                                        <p><img class="img-responsive img-thumbnail img-circle" src="http://www.w3schools.com/w3images/avatar2.png" alt="" ></p>
                                         <h3>Ing. German Reyes<small class="designation">Especialista Integral.</small></h3>
                                     </div>
                                 </div>
