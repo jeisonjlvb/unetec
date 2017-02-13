@@ -1,0 +1,9 @@
+ErrorDocument 404 /404.html
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^unetec.com.ve [NC]
+RewriteRule ^(.*)$
+http://www.unetec.com.ve/$1
+[R=301,L]
+
