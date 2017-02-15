@@ -111,11 +111,11 @@
                             <p>Reparación de Equipos Tecnológicos, instalación de puntos de red y muchas cosas más.</p>
                         </div>
                     </div>
-<center>
- <div class="w3-container">
+
+ <div class="w3-container col-md-4 col-md-offset-4">
   <h3>Prueba nuestros servicios web</h3>
 
-  <button onclick="document.getElementById('id01').style.display='block'" class="w3-btn w3-green w3-large">Ingresar</button>
+  <center><button onclick="document.getElementById('id01').style.display='block'" class="w3-btn w3-green w3-large">Ingresar</button></center>
 
   <div id="id01" class="w3-modal">
     <div class="w3-modal-content w3-card-8 w3-animate-zoom" style="max-width:600px">
@@ -144,7 +144,7 @@
     </div>
   </div>
 </div>
-</center><br>
+<br>
                     <!--/.col-md-4-->
                 </div><!--/.row-->
             </div><!--/.box-->
